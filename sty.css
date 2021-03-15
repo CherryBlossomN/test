@@ -1,7 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,400;1,700&display=swap');
+
 body{
   background:black;
 }
 span{
   color:yellow;
   font-size:50px;
+}
+.menu-btn{   /*hamburger icon*/
+				color: blue;
+				font-size:23px;
+				cursor:pointer;
+				display:none;
 }
