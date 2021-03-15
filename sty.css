@@ -6,7 +6,7 @@ body{
 span{
   color:yellow;
   font-size:50px;
-	font-family:"Ubuntu" sans-serif;
+	font-family:"Ubuntu", sans-serif;
 }
 .menu-btn{   /*hamburger icon*/
 	color: blue;
