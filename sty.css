@@ -1,7 +1,7 @@
 body{
   background:black;
 }
-.navbar .logo a span{{
+.navbar .logo a span{
   color:yellow;
   font-size:50px;
 }
